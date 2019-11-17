@@ -1,0 +1,8 @@
+/* Style sheet created by: Brandon Allen, 2/19/19 */
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 45%;
+}
